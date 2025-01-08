@@ -1,2 +1,2 @@
 # Countdown-cpp
-A basic countdown to discover the use of functions according to a given time
+A basic countdown to discover the code execution according to a given time
